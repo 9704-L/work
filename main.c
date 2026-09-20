@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("I'm on main branch\n");
+    printf("Merge finished!\n");
 }
